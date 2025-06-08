@@ -1,4 +1,6 @@
 int main() {
+
+    
     // Número de casas para cada movimento
     int movimentoTorre = 5;
     int movimentoBispo = 5;
